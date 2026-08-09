@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What was Nexora's revenue in 2025?",
+    "expected_sources": [
+      {
+        "source": "annual_report.pdf"
+      }
+    ]
+  },
+  {
+    "question": "What was Nexora's net income in 2025?",
+    "expected_sources": [
+      {
+        "source": "annual_report.pdf"
+      }
+    ]
+  },
+  {
+    "question": "Who is the CEO of Nexora Technologies?",
+    "expected_sources": [
+      {
+        "source": "annual_report.pdf"
+      }
+    ]
+  },
+  {
+    "question": "How much did Nexora invest in research and development?",
+    "expected_sources": [
+      {
+        "source": "annual_report.pdf"
+      }
+    ]
+  },
+  {
+    "question": "How many employees did Nexora have at the end of 2025?",
+    "expected_sources": [
+      {
+        "source": "annual_report.pdf"
+      }
+    ]
+  },
+  {
+    "question": "What are Nexora's main strategic priorities for 2026?",
+    "expected_sources": [
+      {
+        "source": "annual_report.pdf"
+      }
+    ]
+  }
+]
